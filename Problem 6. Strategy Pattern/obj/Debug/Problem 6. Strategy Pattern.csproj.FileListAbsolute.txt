@@ -1,0 +1,6 @@
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\obj\Debug\Problem 6. Strategy Pattern.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\obj\Debug\Problem_6.Strategy_Pattern.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 6. Strategy Pattern\obj\Debug\Problem_6.Strategy_Pattern.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 4. Froggy\obj\Debug\Problem_4.Froggy.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 4. Froggy\obj\Debug\Problem_4.Froggy.pdb

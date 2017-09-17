@@ -1,0 +1,6 @@
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\Problem_1.ListyIterator.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\Problem_1.ListyIterator.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\bin\Debug\Problem_1.ListyIterator.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\Problem 1. ListyIterator.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\Problem_1.ListyIterator.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 1. ListyIterator\obj\Debug\Problem_1.ListyIterator.pdb

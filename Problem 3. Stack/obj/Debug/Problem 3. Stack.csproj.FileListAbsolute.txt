@@ -1,0 +1,6 @@
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\bin\Debug\Problem_3.Stack.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\bin\Debug\Problem_3.Stack.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\bin\Debug\Problem_3.Stack.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\obj\Debug\Problem 3. Stack.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\obj\Debug\Problem_3.Stack.exe
+D:\Visual Studio\OOPAdvanced\Exercises Iterators And Comparators\Problem 3. Stack\obj\Debug\Problem_3.Stack.pdb
